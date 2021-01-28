@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP_Garage/1.0.0": {
+        "dependencies": {
+          "EcoCore": "7.0.0.12847"
+        },
+        "runtime": {
+          "TP_Garage.dll": {}
+        }
+      },
+      "EcoCore/7.0.0.12847": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.0.0.12847",
+            "fileVersion": "7.0.0.12847"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.0.0.12847",
+            "fileVersion": "7.0.0.12847"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.0.0.12847",
+            "fileVersion": "7.0.0.12847"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_Garage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcoCore/7.0.0.12847": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AzE/Q0bVaMSdr6CjTExPFyTjAeDRzOIYJxItw7Nt6pP06sS+pwj6Bba3725/GCKCCaryp3p1qadXSXODCMkWhA==",
+      "path": "ecocore/7.0.0.12847",
+      "hashPath": "ecocore.7.0.0.12847.nupkg.sha512"
+    }
+  }
+}
